@@ -32,3 +32,22 @@ li a:hover{
   color: black;
   background: rgb(200, 200, 245);
 }
+
+#dedo{
+  width: 15%;
+}
+.caixadedo{
+  position: absolute;
+  top: 45px;
+  left: 0%;
+  width: 90%;
+  height: 155;
+  background-color: rgb(252, 255, 205);
+  margin: 20px;
+  border-width: 20px;
+  border-color: blue;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
